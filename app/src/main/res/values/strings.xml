@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppMapa</string>
+    <string name="title_activity_mapita">Map</string>
+    <string name="agregar_marcador">Agregar Marcador</string>
+    <string name="longitud">Longitud</string>
+    <string name="ver_mapita">Ver mapita</string>
+    <string name="latitud">Latitud</string>
+</resources>
